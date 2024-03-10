@@ -1,16 +1,21 @@
 Ps:Because the file content is too large to upload to GitHub, so I uploaded the code part and the code run file and the result in batches, you can open the webpage by copying the link below to download and view one by one, thank you.
 
 Github Link : https://github.com/JasonGao818/Coding-Three-New1
+
 The final result of the project is based on further changes to the Gan function that I learnt in week 5, here is the basic content that I referenced.
+
 https://git.arts.ac.uk/rfiebrink/ExploringMachineIntelligence_Spring2023/blob/main/week5/dcgan.ipynb
 
 Below is the dataset I used for this assignment, you can download the images I used via this link:
+
 https://www.kaggle.com/datasets/yapwh1208/cats-breed-dataset
 
 Or you can download the full content of the images I used directly from the link below, I've uploaded everything to the cloud and you can also view it directly online:
+
 https://www.dropbox.com/scl/fo/5nhh0ie4gsl2ya82dyw7j/h?dl=0&rlkey=slyep5hr81d81lxh4qua96p0g
 
 ) Because the process trained by the code is too large to upload to Github, I've also uploaded it to another cloud, which you can view directly online by clicking on the link:
+
 https://www.dropbox.com/scl/fo/r0b0r6gl6511jn5llkekw/h?dl=0&rlkey=ot9iljmqizti72iwz1zub0dxg
 
 Finally, there is a link to a finished presentation of the code as well as a link to a presentation of the results: https://youtu.be/IlopEVxszsA
