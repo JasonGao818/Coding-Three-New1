@@ -29,5 +29,7 @@ And compared to clear images, blurred images are more pure, as mentioned in Elki
 This method is making the image blurry, which may be contrary to its own usage, but I think it's kind of an exploration and experimentation of converting from clear to blurry images.
 
 [1][Goodfellow et al., 2014]：Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., ... & Bengio, Y. (2014). Generative adversarial nets. In Advances in neural information processing systems (pp. 2672-2680).
+
 [2][Barthes, R. (1980). Camera lucida: Reflections on photography]. Roland Barthes
+
 [3][Elkins, J. (1999). The Domain of Images]. 
